@@ -1,0 +1,638 @@
+msgid "Colissimo Expert"
+msgstr "Colissimo Expert"
+
+msgid "For international delivery only"
+msgstr "For international delivery only"
+
+msgid "Colissimo without signature"
+msgstr "Colissimo without signature"
+
+msgid "A signature won't be necessary on delivery"
+msgstr "A signature won't be necessary on delivery"
+
+msgid "Colissimo with signature"
+msgstr "Colissimo with signature"
+
+msgid "A signature will be necessary on delivery"
+msgstr "A signature will be necessary on delivery"
+
+msgid "Colissimo relay"
+msgstr "Colissimo relay"
+
+msgid "Delivery in a relay"
+msgstr "Delivery in a relay"
+
+msgid "Labels"
+msgstr "Labels"
+
+msgid "Average preparation delay"
+msgstr "Average preparation delay"
+
+msgid "Your average delay for preparation of a shipment, in days."
+msgstr "Your average delay for preparation of a shipment, in days."
+
+msgid "The log file is empty"
+msgstr "The log file is empty"
+
+msgid "General configuration"
+msgstr "General configuration"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "ID of your account for La Poste webservices"
+msgstr "ID of your account for La Poste webservices"
+
+msgid "Colissimo logs"
+msgstr "Colissimo logs"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Change PickUp point"
+msgstr "Change PickUp point"
+
+msgid "Choose PickUp point"
+msgstr "Choose PickUp point"
+
+msgid "Choose a PickUp point"
+msgstr "Choose a PickUp point"
+
+msgid "Password to connect to La Poste webservices and use the module"
+msgstr "Password to connect to La Poste webservices and use the module"
+
+msgid "Relay point"
+msgstr "Relay point"
+
+msgid "Customize widget"
+msgstr "Customize widget"
+
+msgid "If enabled, you can customize font and font color of the Colissimo widget"
+msgstr "If enabled, you can customize font and font color of the Colissimo widget"
+
+msgid "Address fields text color"
+msgstr "Address fields text color"
+
+msgid "Pickup point list text color"
+msgstr "Pickup point list text color"
+
+msgid "Font"
+msgstr "Font"
+
+msgid "Font for texts inside the widget"
+msgstr "Font for texts inside the widget"
+
+msgid "Debug and development"
+msgstr "Debug and development"
+
+msgid "Choose"
+msgstr "Choose"
+
+msgid "At"
+msgstr "At"
+
+msgid "Display"
+msgstr "Display"
+
+msgid "See logs"
+msgstr "See logs"
+
+msgid "Login and password required to get relay points"
+msgstr "Login and password required to get relay points"
+
+msgid "Zipcode required to get relay points"
+msgstr "Zipcode required to get relay points"
+
+msgid "City required to get relay points"
+msgstr "City required to get relay points"
+
+msgid "Country code required to get relay points"
+msgstr "Country code required to get relay points"
+
+msgid "Shipping date required to get relay points"
+msgstr "Shipping date required to get relay points"
+
+msgid "The international option can't be enabled if the country destination is France"
+msgstr "The international option can't be enabled if the country destination is France"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Zipcode"
+msgstr "Zipcode"
+
+msgid "City"
+msgstr "City"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Unknown ajax call: %s"
+msgstr "Unknown ajax call: %s"
+
+msgid "Wrong ajax call type"
+msgstr "Wrong ajax call type"
+
+msgid "The web service returned 0 relay"
+msgstr "The web service returned 0 relay"
+
+msgid "No relay available"
+msgstr "No relay available"
+
+msgid "No relay selected"
+msgstr "No relay selected"
+
+msgid "Confirm relay"
+msgstr "Confirm relay"
+
+msgid "Do you confirm the shipment to this relay:"
+msgstr "Do you confirm the shipment to this relay:"
+
+msgid "Use web service instead of widget?"
+msgstr "Use web service instead of widget?"
+
+msgid "If enabled, the web service will be used to choose a relay point, else the standard Colissimo widget will be used."
+msgstr "If enabled, the web service will be used to choose a relay point, else the standard Colissimo widget will be used."
+
+msgid "Rates"
+msgstr "Rates"
+
+msgid "Rates by weight"
+msgstr "Rates by weight"
+
+msgid "Shipping rates"
+msgstr "Shipping rates"
+
+msgid "From weight"
+msgstr "From weight"
+
+msgid "From cart price"
+msgstr "From cart price"
+
+msgid "Use cart price instead of weight"
+msgstr "Use cart price instead of weight"
+
+msgid "Do you want to base your shipping fees on cart price instead of the cart weight?"
+msgstr "Do you want to base your shipping fees on cart price instead of the cart weight?"
+
+msgid "Price"
+msgstr "Price"
+
+msgid "Add rate"
+msgstr "Add rate"
+
+msgid "Delete selected"
+msgstr "Delete selected"
+
+msgid "Always free?"
+msgstr "Always free?"
+
+msgid "If enabled, rates calculation for this shipping method will always be zero."
+msgstr "If enabled, rates calculation for this shipping method will always be zero."
+
+msgid "Only needed for Webservice method. The API key can be generated on cloud.google.com/maps-platform"
+msgstr "Only needed for Webservice method. The API key can be generated on cloud.google.com/maps-platform"
+
+msgid "Label generation settings"
+msgstr "Label generation settings"
+
+msgid "Generate label on"
+msgstr "Generate label on"
+
+msgid "Order status once label is generated"
+msgstr "Order status once label is generated"
+
+msgid "Order status once the package is delivered"
+msgstr "Order status once the package is delivered"
+
+msgid "If enabled, this module will not generate label for Colissimo shipment."
+msgstr "If enabled, this module will not generate label for Colissimo shipment."
+
+msgid "Name of your store company"
+msgstr "Name of your store company"
+
+msgid "Use Colissimo Insurance?"
+msgstr "Use Colissimo Insurance?"
+
+msgid "If enabled, each label generation will use Colissimo Insurance feature by default."
+msgstr "If enabled, each label generation will use Colissimo Insurance feature by default."
+
+msgid "Generate Colissimo Outward label"
+msgstr "Generate Colissimo Outward label"
+
+msgid "Not found... <a href=\"%s\">get back to the home page</a>."
+msgstr "Not found... <a href=\"%s\">get back to the home page</a>."
+
+msgid "An error occured while retrieving tracking info (%s [%u])... <a href=\"%s\">get back to the home page</a>."
+msgstr "An error occured while retrieving tracking info (%s [%u])... <a href=\"%s\">get back to the home page</a>."
+
+msgid "Status history"
+msgstr "Status history"
+
+msgid "Status Date"
+msgstr "Status Date"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Localisation"
+msgstr "Localisation"
+
+msgid "Tracking information for order"
+msgstr "Tracking information for order"
+
+msgid "Shipping mehtod:"
+msgstr "Shipping mehtod:"
+
+msgid "Tracking number"
+msgstr "Tracking number"
+
+msgid "Change your shipping information and options"
+msgstr "Change your shipping information and options"
+
+msgid "Delivered"
+msgstr "Delivered"
+
+msgid "Free from order value"
+msgstr "Free from order value"
+
+msgid "Shipping cost will be free if the order value is over the given one (only applied if this field is strictly positive)."
+msgstr "Shipping cost will be free if the order value is over the given one (only applied if this field is strictly positive)."
+
+msgid "Maximum weight / price"
+msgstr "Maximum weight / price"
+
+msgid "Return labels"
+msgstr "Return labels"
+
+msgid "Delivery label format"
+msgstr "Delivery label format"
+
+msgid "Return label format"
+msgstr "Return label format"
+
+msgid "PDF office printing, dimension A4 and resolution of 300dpi"
+msgstr "PDF office printing, dimension A4 and resolution of 300dpi"
+
+msgid "PDF office printing, dimension 10cm x 15cm, and resolution of 300dpi"
+msgstr "PDF office printing, dimension 10cm x 15cm, and resolution of 300dpi"
+
+msgid "Keep order status as it is"
+msgstr "Keep order status as it is"
+
+msgid "Customs declaration"
+msgstr "Customs declaration"
+
+msgid "Default HS code"
+msgstr "Default HS code"
+
+msgid "Used when no HS code set on a product"
+msgstr "Used when no HS code set on a product"
+
+msgid "Default customs category"
+msgstr "Default customs category"
+
+msgid "Define the nature of the shipment"
+msgstr "Define the nature of the shipment"
+
+msgid "Gift"
+msgstr "Gift"
+
+msgid "Commercial sample"
+msgstr "Commercial sample"
+
+msgid "Commercial shipment"
+msgstr "Commercial shipment"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Origin custom attribute name"
+msgstr "Origin custom attribute name"
+
+msgid "The name of the custom attribute you use to store the product country of manufacture / origin on products"
+msgstr "The name of the custom attribute you use to store the product country of manufacture / origin on products"
+
+msgid "HS code custom attribute name"
+msgstr "HS code custom attribute name"
+
+msgid "The name of the custom attribute you use to store the product HS code on products"
+msgstr "The name of the custom attribute you use to store the product HS code on products"
+
+msgid "For french overseas destinations only (except St-Pierre-et-Miquelon)"
+msgstr "For french overseas destinations only (except St-Pierre-et-Miquelon)"
+
+msgid "Are parcels free of taxes and fees?"
+msgstr "Are parcels free of taxes and fees?"
+
+msgid "Generate bordereau"
+msgstr "Generate bordereau"
+
+msgid "Download label information"
+msgstr "Download label information"
+
+msgid "Order status once bordereau is generated"
+msgstr "Order status once bordereau is generated"
+
+msgid "Access denied! (Security check failed)"
+msgstr "Access denied! (Security check failed)"
+
+msgid "Automatically create return label at the same time as the outward label"
+msgstr "Automatically create return label at the same time as the outward label"
+
+msgid "An email is sent to the customer when the inward label is generated, if this option is set up"
+msgstr "An email is sent to the customer when the inward label is generated, if this option is set up"
+
+msgid "Your inward label"
+msgstr "Your inward label"
+
+msgid "Automatically email the return label to the customer"
+msgstr "Automatically email the return label to the customer"
+
+msgid "If enabled, the return label will be automatically emailed to the customer when it is generated"
+msgstr "If enabled, the return label will be automatically emailed to the customer when it is generated"
+
+msgid "Email Return Label"
+msgstr "Email Return Label"
+
+msgid "Label sent"
+msgstr "Label sent"
+
+msgid "Label was not sent"
+msgstr "Label was not sent"
+
+msgid "If you don't activate this option, you can still manually create return labels on order shipping page"
+msgstr "If you don't activate this option, you can still manually create return labels on order shipping page"
+
+msgid "Generate Colissimo Inward label"
+msgstr "Generate Colissimo Inward label"
+
+msgid "Not allowed for this destination"
+msgstr "Not allowed for this destination"
+
+msgid "Generate inward labels"
+msgstr "Generate inward labels"
+
+msgid "Generate outward labels"
+msgstr "Generate outward labels"
+
+msgid "Click here to download your created label package"
+msgstr "Click here to download your created label package"
+
+msgid "Click here to download your created bordereau"
+msgstr "Click here to download your created bordereau"
+
+msgid "Send tracking email"
+msgstr "Send tracking email"
+
+msgid "Send the tracking link in an email to customer on label generation"
+msgstr "Send the tracking link in an email to customer on label generation"
+
+msgid "Outward label generated"
+msgstr "Outward label generated"
+
+msgid "Inward label generated"
+msgstr "Inward label generated"
+
+msgid "An email is sent to the customer when the outward label is generated, if this option is set up"
+msgstr "An email is sent to the customer when the outward label is generated, if this option is set up"
+
+msgid "Your order %s is being prepared and will soon be taken care of for shipping."
+msgstr "Your order %s is being prepared and will soon be taken care of for shipping."
+
+msgid "You can follow up your order"
+msgstr "You can follow up your order"
+
+msgid "here"
+msgstr "here"
+
+msgid "Your order status changed"
+msgstr "Your order status changed"
+
+msgid "You can follow up your order here:"
+msgstr "You can follow up your order here:"
+
+msgid "Number of days to consider labels for purging (days)"
+msgstr "Number of days to consider labels for purging (days)"
+
+msgid "Delay before deleting labels BLOB from database. Use 0 or leave empty to disable this purge."
+msgstr "Delay before deleting labels BLOB from database. Use 0 or leave empty to disable this purge."
+
+msgid "Colissimo Orders"
+msgstr "Colissimo Orders"
+
+msgid "Update Colissimo statuses"
+msgstr "Update Colissimo statuses"
+
+msgid "Some statuses can't be updated. Please check log for more information"
+msgstr "Some statuses can't be updated. Please check log for more information"
+
+msgid "All statuses were updated"
+msgstr "All statuses were updated"
+
+msgid "Download outward label"
+msgstr "Download outward label"
+
+msgid "Download inward label"
+msgstr "Download inward label"
+
+msgid "Print outward label"
+msgstr "Print outward label"
+
+msgid "Print inward label"
+msgstr "Print inward label"
+
+msgid "Billing address"
+msgstr "Billing address"
+
+msgid "Shipping address"
+msgstr "Shipping address"
+
+msgid "[Order #%d]"
+msgstr "[Order #%d]"
+
+msgid "MailBox picking return"
+msgstr "MailBox picking return"
+
+msgid "MailBox pick-up"
+msgstr "MailBox pick-up"
+
+msgid "Allow customers to automatically create return labels and use them to return the parcel from their MailBox"
+msgstr "Allow customers to automatically create return labels and use them to return the parcel from their MailBox"
+
+msgid "F j, Y"
+msgstr "F j, Y"
+
+msgid "Retrieval address"
+msgstr "Retrieval address"
+
+msgid "Your order was initially sent to the following address:"
+msgstr "Your order was initially sent to the following address:"
+
+msgid "You may change the address the return will be made from via the following fields:"
+msgstr "You may change the address the return will be made from via the following fields:"
+
+msgid "Street"
+msgstr "Street"
+
+msgid "Zip code"
+msgstr "Zip code"
+
+msgid "Only France is allowed"
+msgstr "Only France is allowed"
+
+msgid "Check that this address is allowed for MailBox picking return"
+msgstr "Check that this address is allowed for MailBox picking return"
+
+msgid "Address from which the return will be from:"
+msgstr "Address from which the return will be from:"
+
+msgid "Confirm pick-up"
+msgstr "Confirm pick-up"
+
+msgid "This address is not eligible for MailBox pick-up."
+msgstr "This address is not eligible for MailBox pick-up."
+
+msgid "Please confirm before today %1$s that you will put the parcel in the MailBox described previously, before the %2$s at %3$s."
+msgstr "Please confirm before today %1$s that you will put the parcel in the MailBox described previously, before the %2$s at %3$s."
+
+msgid "Your PickUp has been confirmed."
+msgstr "Your PickUp has been confirmed."
+
+msgid "Your return tracking number is:"
+msgstr "Your return tracking number is:"
+
+msgid "An error occured while confirming the mailBox pick-up."
+msgstr "An error occured while confirming the mailBox pick-up."
+
+msgid "Show internationals Relay Points"
+msgstr "Show internationals Relay Points"
+
+msgid "Only applicable for Webservice method"
+msgstr "Only applicable for Webservice method"
+
+msgid "Outward label was not generated:"
+msgstr "Outward label was not generated:"
+
+msgid "Inward label was not generated:"
+msgstr "Inward label was not generated:"
+
+msgid "No change"
+msgstr "No change"
+
+msgid "Weight cannot be negative!"
+msgstr "Weight cannot be negative!"
+
+msgid "The ProductCode used requires that a pickupLocationId is set!"
+msgstr "The ProductCode used requires that a pickupLocationId is set!"
+
+msgid "The ProductCode used requires that a pickupLocationId is *not* set!"
+msgstr "The ProductCode used requires that a pickupLocationId is *not* set!"
+
+msgid "The ProductCode used requires that a commercialName is set!"
+msgstr "The ProductCode used requires that a commercialName is set!"
+
+msgid "companyName must be set in Sender address!"
+msgstr "companyName must be set in Sender address!"
+
+msgid "line2 must be set in Sender address!"
+msgstr "line2 must be set in Sender address!"
+
+msgid "countryCode must be set in Sender address!"
+msgstr "countryCode must be set in Sender address!"
+
+msgid "zipCode must be set in Sender address!"
+msgstr "zipCode must be set in Sender address!"
+
+msgid "city must be set in Sender address!"
+msgstr "city must be set in Sender address!"
+
+msgid "companyName or (firstName + lastName) must be set in Addressee address!"
+msgstr "companyName or (firstName + lastName) must be set in Addressee address!"
+
+msgid "companyName must be set in Addressee address for return label!"
+msgstr "companyName must be set in Addressee address for return label!"
+
+msgid "line2 must be set in Addressee address!"
+msgstr "line2 must be set in Addressee address!"
+
+msgid "countryCode must be set in Addressee address!"
+msgstr "countryCode must be set in Addressee address!"
+
+msgid "zipCode must be set in Addressee address!"
+msgstr "zipCode must be set in Addressee address!"
+
+msgid "city must be set in Addressee address!"
+msgstr "city must be set in Addressee address!"
+
+msgid "The ProductCode used requires that a mobile number is set!"
+msgstr "The ProductCode used requires that a mobile number is set!"
+
+msgid "See order"
+msgstr "See order"
+
+msgid "Google maps API key"
+msgstr "Google maps API key"
+
+msgid "Log messages"
+msgstr "Log messages"
+
+msgid "None"
+msgstr "None"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Warn"
+msgstr "Warn"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Debug"
+msgstr "Debug"
+
+msgid "The extension will save informative or debug messages in a file when needed"
+msgstr "The extension will save informative or debug messages in a file when needed"
+
+msgid "Customer"
+msgstr "Customer"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Shipping Method"
+msgstr "Shipping Method"
+
+msgid "Label (out / in)"
+msgstr "Label (out / in)"
+
+msgid "Bordereau"
+msgstr "Bordereau"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Order %s : Outward label generated"
+msgstr "Order %s : Outward label generated"
+
+msgid "Order %s : Outward label was not generated:"
+msgstr "Order %s : Outward label was not generated:"
+
+msgid "Order %s : Inward label generated"
+msgstr "Order %s : Inward label generated"
+
+msgid "Order %s : Inward label was not generated:"
+msgstr "Order %s : Inward label was not generated:"
+
+msgid "cdi_warning_message"
+msgstr "We found that Colissimo Delivery Integration plugin is installed on your website. This plugin have some compatibility issues with the official Colissimo plugin. To avoid issues, please deactivate Colissimo Delivery Integration."

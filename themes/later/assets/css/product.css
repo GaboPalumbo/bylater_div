@@ -1,0 +1,291 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 nov. 2019, 12:21:02
+    Author     : gabriele.palumbo
+*/
+
+.product_nav {
+    font-size: 12px;
+    text-transform: capitalize;
+    font-weight: 600;
+    margin-bottom:36px;
+}
+.product_nav > span{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.wrap_product{
+    max-width: 1000px; 
+}
+
+.woocommerce-page.columns-3 ul.products li.product, .woocommerce.columns-3 ul.products li.product {
+    width: 33%;
+}
+
+.product_accordeon {
+    position: absolute;
+    left: 0px;
+    height: 580px;
+    width: 250px;
+}
+
+#accordion {
+    position: absolute;
+    left: 0px;
+    top: 50%;
+    font-size: 12px;
+    width: 250px;
+    transform: translateY(-50%);
+}
+
+#accordion > h3 {
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-top:1px solid black;
+    padding:0;
+    padding-top:10px;
+    display: block;
+    position: relative;
+    cursor: pointer;
+}
+#accordion > h3:first-child  {
+    border-top:0px solid black;
+}
+
+.ui-accordion-content:last-child  {
+    border-top: 1px solid black;
+}
+
+.ui-accordion-header-active:before{
+    content:"\A";
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 8px solid #000;
+    border-top:0px solid #000;
+    position: absolute;
+    right:0px;
+    top:10px;
+}
+
+
+.ui-accordion-header-collapsed:before{
+    content:"\A";
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 8px solid #000;
+    border-bottom:0px solid #000;
+    position: absolute;
+    right:0px;
+    top:10px;
+}
+
+.woocommerce #content div.product div.images, .woocommerce div.product div.images, .woocommerce-page #content div.product div.images, .woocommerce-page div.product div.images {
+    float: none;
+    width: 366px;
+    position: relative;
+    /* left: 50%; */
+    margin: auto;
+}
+
+.woocommerce div.product form.cart .variations td {
+    display: block;
+}
+
+.woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary {
+    float: none;
+    position: absolute;
+
+    width: 250px;
+
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+
+.summary_right{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 250px;
+    height: 580px;
+}
+
+
+.woocommerce div.product form.cart .variations {
+    display: none;
+}
+.product-size, .product-variations {
+    list-style: none;
+    margin-top: 20px;
+}
+
+.product-size > li {
+    width: 28px;
+    height: 28px;
+    border-radius: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+    line-height: 27px;
+    cursor: pointer;
+}
+
+.product-size > li:hover {
+    background-color: grey;
+}
+
+.product-size > .selected {
+    color:white;
+    background-color: black;
+}
+
+.woocommerce div.product p.price{
+    position: absolute;
+    top: 0px;
+}
+
+.product_price{
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.woocommerce div.product p.price {
+    display: none;
+}
+
+.woocommerce #content div.product .woocommerce-tabs, .woocommerce div.product .woocommerce-tabs, .woocommerce-page #content div.product .woocommerce-tabs, .woocommerce-page div.product .woocommerce-tabs {
+    display: none;
+}
+
+.woocommerce-product-gallery__image{
+    min-height: 488px;
+}
+
+.woocommerce div.product p.in-stock{
+    color: black;
+    font-size: 12px;
+}
+
+.post-navigation{
+    display: none;
+}
+
+
+.related{
+    margin-top: 60px; 
+}
+
+
+.product_meta{
+    display: none;
+}
+
+
+.product-variations > li {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+    position: relative;
+    border: 0px solid black;
+}
+
+.product-variations > li:hover {
+    border: 1px solid #d2d0d0;
+}
+
+.product-variations > .selected-variation{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    border: 1px solid black;
+    pointer-events: none;
+}
+
+
+.product-variations > li > div, .product-variations > li > a{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    border-radius: 40px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.single_variation_wrap > .variations_button > .quantity{
+    opacity: 0;
+    pointer-events: none;
+    display:none;
+    float: none;
+}
+
+.entry-content a{
+    box-shadow:unset;
+}
+
+
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    background-color: black;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+    background-color: #a3a3a3;
+    color: #fff;
+}
+
+.woocommerce div.product form.cart .button {
+    vertical-align: middle;
+    float: none;
+    width: 100%;
+    height: 70px;
+    border-radius: 0px;
+}
+
+.woocommerce div.product div.images .flex-control-thumbs {
+    width: 366px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    white-space: nowrap;
+    margin-top:5px;
+    padding-bottom: -5px;
+    overflow-x: scroll;
+}
+.woocommerce div.product div.images .flex-control-thumbs li {
+    display: inline-block;
+    float: none;
+    clear: both;
+    position: relative;
+    width: 91px;
+}
+.woocommerce div.product div.images .flex-control-thumbs li img {
+    padding:5px;
+}
+
+.product_display_store{
+        font-weight: bolder;
+    display: inline-block;
+    margin: auto;
+    margin-top: 8px;
+    font-size: 11px;
+    color: #000;
+    margin-top: 2px;
+    text-transform: uppercase;
+}
+

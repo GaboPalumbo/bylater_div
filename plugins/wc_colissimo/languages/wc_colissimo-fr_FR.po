@@ -1,0 +1,635 @@
+msgid "Colissimo Expert"
+msgstr "Colissimo Expert"
+
+msgid "For international delivery only"
+msgstr "Pour les livraisons à l'international seulement"
+
+msgid "Colissimo without signature"
+msgstr "Colissimo sans signature"
+
+msgid "A signature won't be necessary on delivery"
+msgstr "Aucune signature nécessaire à la livraison"
+
+msgid "Colissimo with signature"
+msgstr "Colissimo avec signature"
+
+msgid "A signature will be necessary on delivery"
+msgstr "Une signature sera nécessaire à la livraison"
+
+msgid "Colissimo relay"
+msgstr "Colissimo relais"
+
+msgid "Delivery in a relay"
+msgstr "Livraison en point relais"
+
+msgid "Labels"
+msgstr "Etiquettes"
+
+msgid "Average preparation delay"
+msgstr "Délai de préparation moyen"
+
+msgid "Your average delay for preparation of a shipment, in days."
+msgstr "Votre délai moyen de préparation d'une livraison, en jours."
+
+msgid "The log file is empty"
+msgstr "Le fichier de log est vide"
+
+msgid "General configuration"
+msgstr "Configuration générale"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "ID of your account for La Poste webservices"
+msgstr "Identifiant de votre compte pour les webservices La Poste"
+
+msgid "Colissimo logs"
+msgstr "Logs Colissimo"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Change PickUp point"
+msgstr "Changer le point de retrait"
+
+msgid "Choose PickUp point"
+msgstr "Choisir le point de retrait"
+
+msgid "Choose a PickUp point"
+msgstr "Choisir un point de retrait"
+
+msgid "Password to connect to La Poste webservices and use the module"
+msgstr "Mot de passe pour se connecter aux webservies de La Poste et utiliser le module"
+
+msgid "Relay point"
+msgstr "Point relais"
+
+msgid "Customize widget"
+msgstr "Personnalisation du widget"
+
+msgid "If enabled, you can customize font and font color of the Colissimo widget"
+msgstr "Si activé, vous pouvez personnaliser la police ainsi que la couleur de police du widget Colissimo"
+
+msgid "Address fields text color"
+msgstr "Couleur des textes des champs de l'adresse"
+
+msgid "Pickup point list text color"
+msgstr "Couleur des textes de la liste des points retraits"
+
+msgid "Font"
+msgstr "Police"
+
+msgid "Font for texts inside the widget"
+msgstr "Police pour les textes dans le widget de points retraits"
+
+msgid "Debug and development"
+msgstr "Debug et Développement"
+
+msgid "Choose"
+msgstr "Choisir"
+
+msgid "At"
+msgstr "À"
+
+msgid "Display"
+msgstr "Afficher"
+
+msgid "See logs"
+msgstr "Voir les logs"
+
+msgid "Login and password required to get relay points"
+msgstr "Un login et un mot de passe sont requis pour récupérer les points relais"
+
+msgid "Zipcode required to get relay points"
+msgstr "Le code postal est requis pour les points relais"
+
+msgid "City required to get relay points"
+msgstr "La ville est requise pour les points relais"
+
+msgid "Country code required to get relay points"
+msgstr "Le code pays est requis pour les points relais"
+
+msgid "Shipping date required to get relay points"
+msgstr "La date d'expédition est requise pour les points relais"
+
+msgid "The international option can't be enabled if the country destination is France"
+msgstr "L'option internationale ne peut pas être activée si le pays de destination est la France"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Zipcode"
+msgstr "Code postal"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Search"
+msgstr "Chercher"
+
+msgid "Unknown ajax call: %s"
+msgstr "Appel ajax inconnu : %s"
+
+msgid "Wrong ajax call type"
+msgstr "Mauvais type d'appel ajax"
+
+msgid "The web service returned 0 relay"
+msgstr "Le web service n'a trouvé aucun point relais"
+
+msgid "No relay available"
+msgstr "Aucun point relais disponible"
+
+msgid "No relay selected"
+msgstr "Aucun point relais sélectionné"
+
+msgid "Confirm relay"
+msgstr "Confirmer le point relais"
+
+msgid "Do you confirm the shipment to this relay:"
+msgstr "Confirmez-vous la livraison à ce point relais :"
+
+msgid "Use web service instead of widget?"
+msgstr "Utiliser le web service plutôt que le widget ?"
+
+msgid "If enabled, the web service will be used to choose a relay point, else the standard Colissimo widget will be used."
+msgstr "Si activé, le web service sera utilisé pour choisir un point relais, sinon ce sera le widget standard de Colissimo."
+
+msgid "Rates"
+msgstr "Frais"
+
+msgid "Rates by weight"
+msgstr "Frais selon le poids"
+
+msgid "Shipping rates"
+msgstr "Frais de livraison"
+
+msgid "From weight"
+msgstr "À partir du poids"
+
+msgid "From cart price"
+msgstr "À partir du prix du panier"
+
+msgid "Use cart price instead of weight"
+msgstr "Se baser sur le prix du panier plutôt que sur son poids"
+
+msgid "Do you want to base your shipping fees on cart price instead of the cart weight?"
+msgstr "Voulez-vous calculer les frais de livraison en fonction du prix du panier plutôt que de son poids ?"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Add rate"
+msgstr "Ajouter une tranche"
+
+msgid "Delete selected"
+msgstr "Supprimer la sélection"
+
+msgid "Always free?"
+msgstr "Toujours gratuit ?"
+
+msgid "If enabled, rates calculation for this shipping method will always be zero."
+msgstr "Si activé, les frais de livraisons seront toujours gratuit pour cette méthode."
+
+msgid "Only needed for Webservice method. The API key can be generated on cloud.google.com/maps-platform"
+msgstr "Uniquement utile pour le Webservice. La clé API peut être générée depuis cloud.google.com/maps-platform"
+
+msgid "Label generation settings"
+msgstr "Paramètres de génération des étiquettes"
+
+msgid "Generate label on"
+msgstr "Générer l'étiquette aux statuts"
+
+msgid "Order status once label is generated"
+msgstr "Statut des commandes après génération de l'étiquette"
+
+msgid "Order status once the package is delivered"
+msgstr "Statut des commandes après livraison"
+
+msgid "Name of your store company"
+msgstr "Nom de votre magasin"
+
+msgid "Use Colissimo Insurance?"
+msgstr "Utiliser l'assurance Colissimo ?"
+
+msgid "If enabled, each label generation will use Colissimo Insurance feature by default."
+msgstr "Si activé, les étiquettes automatiquement générées utiliseront l'assurance Colissimo."
+
+msgid "Generate Colissimo Outward label"
+msgstr "Générer l'étiquette de livraison Colissimo"
+
+msgid "Not found... <a href=\"%s\">get back to the home page</a>."
+msgstr "Non trouvé... <a href=\"%s\">retour à l'accueil</a>."
+
+msgid "An error occured while retrieving tracking info (%s [%u])... <a href=\"%s\">get back to the home page</a>."
+msgstr "Une erreur est survenue lors de la récupération des informations de suivi (%s [%u])... <a href=\"%s\">retour à l'accueil</a>."
+
+msgid "Status history"
+msgstr "Historique des statuts"
+
+msgid "Status Date"
+msgstr "Date du statut"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Localisation"
+msgstr "Localisation"
+
+msgid "Tracking information for order"
+msgstr "Information de suivis de la commande"
+
+msgid "Shipping mehtod:"
+msgstr "Méthode de livraison :"
+
+msgid "Tracking number"
+msgstr "Numéro de suivi"
+
+msgid "Change your shipping information and options"
+msgstr "Modifier votre livraison"
+
+msgid "Delivered"
+msgstr "Livré"
+
+msgid "Free from order value"
+msgstr "Gratuit à partir du prix de commande"
+
+msgid "Shipping cost will be free if the order value is over the given one (only applied if this field is strictly positive)."
+msgstr "Les frais de livraisons seront gratuits si le coût de la commande dépasse ce montant (appliqué seulement si le montant est positif)."
+
+msgid "Maximum weight / price"
+msgstr "Poids / prix maximum"
+
+msgid "Return labels"
+msgstr "Étiquette de retour"
+
+msgid "Delivery label format"
+msgstr "Format d'impression des étiquettes aller"
+
+msgid "Return label format"
+msgstr "Format d'impression des étiquettes retour"
+
+msgid "PDF office printing, dimension A4 and resolution of 300dpi"
+msgstr "Impression bureautique en PDF, de dimension A4 et de résolution 300dpi"
+
+msgid "PDF office printing, dimension 10cm x 15cm, and resolution of 300dpi"
+msgstr "Impression bureautique en PDF, de dimension 10cm par 15cm, et de résolution 300dpi"
+
+msgid "Keep order status as it is"
+msgstr "Ne pas modifier le statut de commande"
+
+msgid "Customs declaration"
+msgstr "Déclaration pour les douanes"
+
+msgid "Default HS code"
+msgstr "Code SH par défaut"
+
+msgid "Used when no HS code set on a product"
+msgstr "Utilisé si aucun code SH n'a été défini sur un produit"
+
+msgid "Default customs category"
+msgstr "Catégorie de nature des envois"
+
+msgid "Define the nature of the shipment"
+msgstr "Indique la nature de l'envoi (pour les envois internationaux ou vers l'outre-mer soumis à la déclaration CN23)"
+
+msgid "Gift"
+msgstr "Cadeau"
+
+msgid "Commercial sample"
+msgstr "Echantillon commercial"
+
+msgid "Commercial shipment"
+msgstr "Envoi commercial"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Origin custom attribute name"
+msgstr "Nom de l'attribut personnalisé pays d'origine"
+
+msgid "The name of the custom attribute you use to store the product country of manufacture / origin on products"
+msgstr "Nom de l'attribut personnalisé utilisé pour stocker le pays de fabrication / d'origine du produit"
+
+msgid "HS code custom attribute name"
+msgstr "Nom de l'attribut personnalisé code SH"
+
+msgid "The name of the custom attribute you use to store the product HS code on products"
+msgstr "Nom de l'attribut personnalisé utilisé pour stocker le code SH des produits"
+
+msgid "For french overseas destinations only (except St-Pierre-et-Miquelon)"
+msgstr "Pour les DOM-TOM uniquement (sauf St-Pierre-et-Miquelon)"
+
+msgid "Are parcels free of taxes and fees?"
+msgstr "Colis franc de taxes et de droits ?"
+
+msgid "Generate bordereau"
+msgstr "Générer le bordereau"
+
+msgid "Download label information"
+msgstr "Télécharger les étiquettes de livraison"
+
+msgid "Order status once bordereau is generated"
+msgstr "Statut des commandes après génération du bordereau"
+
+msgid "Access denied! (Security check failed)"
+msgstr "Accès refusé ! (Echec de la vérification)"
+
+msgid "Automatically create return label at the same time as the outward label"
+msgstr "Créer automatiquement l'étiquette de retour lors de la génération de l'étiquette aller"
+
+msgid "An email is sent to the customer when the inward label is generated, if this option is set up"
+msgstr "Un email est envoyé au client lorsque l'étiquette de retour est générée si cette option est activée"
+
+msgid "Your inward label"
+msgstr "Votre étiquette de retour"
+
+msgid "Automatically email the return label to the customer"
+msgstr "Envoyer automatiquement l'étiquette de retour au client par email"
+
+msgid "If enabled, the return label will be automatically emailed to the customer when it is generated"
+msgstr "Si activé, l'étiquette de retour sera automatiquement envoyée lors de sa création au client"
+
+msgid "Email Return Label"
+msgstr "Envoyer l'étiquette retour par mail"
+
+msgid "Label sent"
+msgstr "Étiquette envoyée"
+
+msgid "Label was not sent"
+msgstr "L'étiquette n'a pas été envoyée"
+
+msgid "If you don't activate this option, you can still manually create return labels on order shipping page"
+msgstr "Si vous n'activez pas cette option, vous pouvez toujours créer l'étiquette manuellement sur la page de la commande"
+
+msgid "Generate Colissimo Inward label"
+msgstr "Générer l'étiquette de retour Colissimo"
+
+msgid "Not allowed for this destination"
+msgstr "Non authorisé pour cette destination"
+
+msgid "Generate inward labels"
+msgstr "Générer l'étiquette retour"
+
+msgid "Generate outward labels"
+msgstr "Générer l'étiquette aller"
+
+msgid "Click here to download your created label package"
+msgstr "Cliquez ici pour télécharger les étiquettes"
+
+msgid "Click here to download your created bordereau"
+msgstr "Cliquez ici pour télécharger le bordereau"
+
+msgid "Send tracking email"
+msgstr "Envoi du mail de suivi"
+
+msgid "Send the tracking link in an email to customer on label generation"
+msgstr "Envoi du lien de suivi de commande par email à la génération de l'étiquette"
+
+msgid "Outward label generated"
+msgstr "Étiquette aller générée"
+
+msgid "Inward label generated"
+msgstr "Étiquette retour générée"
+
+msgid "An email is sent to the customer when the outward label is generated, if this option is set up"
+msgstr "Un email est envoyé au client lorsque l'étiquette aller est générée, si l'option est activée"
+
+msgid "Your order %s is being prepared and will soon be taken care of for shipping."
+msgstr "Votre commande %s est en cours de préparation et sera bientôt prise en charge pour expédition."
+
+msgid "You can follow up your order"
+msgstr "Vous pouvez suivre votre commande"
+
+msgid "here"
+msgstr "ici"
+
+msgid "Your order status changed"
+msgstr "Votre statut de commande a changé"
+
+msgid "You can follow up your order here:"
+msgstr "Vous pouvez suivre votre commande ici:"
+
+msgid "Number of days to consider labels for purging (days)"
+msgstr "Nombre de jours avant suppression des étiquettes (jours)"
+
+msgid "Delay before deleting labels BLOB from database. Use 0 or leave empty to disable this purge."
+msgstr "Délai avant suppression des étiquettes dans la base de données. Utiliser 0 ou laisser vide pour désactiver la suppression"
+
+msgid "Colissimo Orders"
+msgstr "Commandes Colissimo"
+
+msgid "Update Colissimo statuses"
+msgstr "Mettre à jour les statuts Colissimo"
+
+msgid "Some statuses can't be updated. Please check log for more information"
+msgstr "Certains statuts ne peuvent être mois à jour. Merci de vérifier les logs pour plus d'information"
+
+msgid "All statuses were updated"
+msgstr "Tous les statuts ont été mis à jour"
+
+msgid "Download outward label"
+msgstr "Télécharger l'étiquette aller"
+
+msgid "Download inward label"
+msgstr "Télécharger l'étiquette retour"
+
+msgid "Print outward label"
+msgstr "Imprimer l'étiquette aller"
+
+msgid "Print inward label"
+msgstr "Imprimer l'étiquette retour"
+
+msgid "Billing address"
+msgstr "Adresse de facturation"
+
+msgid "Shipping address"
+msgstr "Adresse de livraison"
+
+msgid "[Order #%d]"
+msgstr "[Commande #%d]"
+
+msgid "MailBox picking return"
+msgstr "Dépôt de colis retour en boîte aux lettres"
+
+msgid "MailBox pick-up"
+msgstr "Enlèvement dans ma boîte aux lettres"
+
+msgid "Allow customers to automatically create return labels and use them to return the parcel from their MailBox"
+msgstr "Autoriser les clients à créer leur étiquette de retour et l'utiliser pour le retour en boîte aux lettres"
+
+msgid "F j, Y"
+msgstr "F j, Y"
+
+msgid "Retrieval address"
+msgstr "Adresse de retour"
+
+msgid "Your order was initially sent to the following address:"
+msgstr "Votre commande a été livrée initiallement à l'adresse suivante :"
+
+msgid "You may change the address the return will be made from via the following fields:"
+msgstr "Vous pouvez changer l'adresse depuis laquelle le retour sera envoyé via les champs suivants :"
+
+msgid "Street"
+msgstr "Rue"
+
+msgid "Zip code"
+msgstr "Code postal"
+
+msgid "Only France is allowed"
+msgstr "Seule la France est autorisée"
+
+msgid "Check that this address is allowed for MailBox picking return"
+msgstr "Verifier que cette adresse est éligible au retour en boîte aux lettres."
+
+msgid "Address from which the return will be from:"
+msgstr "Adresse depuis laquelle le retour sera fait :"
+
+msgid "Confirm pick-up"
+msgstr "Confirmer l'enlevement dans ma boîte aux lettres"
+
+msgid "This address is not eligible for MailBox pick-up."
+msgstr "Cette adresse n'est pas éligible au retour en boîte aux lettres."
+
+msgid "Please confirm before today %1$s that you will put the parcel in the MailBox described previously, before the %2$s at %3$s."
+msgstr "Merci de confirmer avant aujourd'hui %1$s que vous déposerez le colis dans la boîte aux lettres décrite ci-dessus, avant le %2$s à %3$s."
+
+msgid "Your PickUp has been confirmed."
+msgstr "Votre retour boîte aux lettres a été confirmé."
+
+msgid "Your return tracking number is:"
+msgstr "Votre numéro de suivi de retour est :"
+
+msgid "An error occured while confirming the mailBox pick-up."
+msgstr "AUne erreur est survenue lors de la confirmation du retour boîte aux lettres."
+
+msgid "Show internationals Relay Points"
+msgstr "Afficher les points relais à l'international"
+
+msgid "Only applicable for Webservice method"
+msgstr "Applicable seulement pour la méthode Webservicve"
+
+msgid "Outward label was not generated:"
+msgstr "L'étiquette aller n'a pas été générée :"
+
+msgid "Inward label was not generated:"
+msgstr "L'étiquette retour n'a pas été générée :"
+
+msgid "No change"
+msgstr "Aucun changement"
+
+msgid "Weight cannot be negative!"
+msgstr "Le poids ne peut pas être négatif !"
+
+msgid "The ProductCode used requires that a pickupLocationId is set!"
+msgstr "Le Code produit utilisé requiert qu'un pickupLocationId soit valué."
+
+msgid "The ProductCode used requires that a pickupLocationId is *not* set!"
+msgstr "Le Code produit utilisé requiert que le prickupLocationId ne soit *pas* valué !"
+
+msgid "The ProductCode used requires that a commercialName is set!"
+msgstr "Le Code produit utilisé requiert qu'un commercialName soit valué !"
+
+msgid "companyName must be set in Sender address!"
+msgstr "companyName doit être valué dans l'adresse de l'expéditeur !"
+
+msgid "line2 must be set in Sender address!"
+msgstr "line2 doit être valué dans l'adresse de l'expéditeur !"
+
+msgid "countryCode must be set in Sender address!"
+msgstr "countryCode doit être valué dans l'adresse de l'expéditeur !"
+
+msgid "zipCode must be set in Sender address!"
+msgstr "zipCode doit être valué dans l'adresse de l'expéditeur !"
+
+msgid "city must be set in Sender address!"
+msgstr "city doit être valué dans l'adresse de l'expéditeur !"
+
+msgid "companyName or (firstName + lastName) must be set in Addressee address!"
+msgstr "companyName ou (firstName + lastName) doit être valué dans l'adresse de destinataire !"
+
+msgid "companyName must be set in Addressee address for return label!"
+msgstr "companyName doit être valué dans l'adresse de destinataire pour les étiquettes de retour !"
+
+msgid "line2 must be set in Addressee address!"
+msgstr "line2 doit être valué dans l'adresse de destinataire !"
+
+msgid "countryCode must be set in Addressee address!"
+msgstr "countryCode doit être valué dans l'adresse de destinataire !"
+
+msgid "zipCode must be set in Addressee address!"
+msgstr "zipCode doit être valué dans l'adresse de destinataire !"
+
+msgid "city must be set in Addressee address!"
+msgstr "city doit être valué dans l'adresse de destinataire !"
+
+msgid "The ProductCode used requires that a mobile number is set!"
+msgstr "Le ProductCode utilisé nécessite qu'un numéro de téléphone mobile soit fourni"
+
+msgid "See order"
+msgstr "Voir la commande"
+
+msgid "Google maps API key"
+msgstr "Clé d'API Google Maps"
+
+msgid "Log messages"
+msgstr "Enregistrer les messages de log"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Warn"
+msgstr "Alerte"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Debug"
+msgstr "Debug"
+
+msgid "The extension will save informative or debug messages in a file when needed"
+msgstr "Activer la sauvegarde des informations et messages de debug dans un fichier si nécessaire"
+
+msgid "Customer"
+msgstr "Client"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Shipping Method"
+msgstr "Méthode de livraison"
+
+msgid "Label (out / in)"
+msgstr "Étiquette (aller / retour)"
+
+msgid "Bordereau"
+msgstr "Bordereau"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Order %s : Outward label generated"
+msgstr "Commande %s : Étiquette aller générée"
+
+msgid "Order %s : Outward label was not generated:"
+msgstr "Commande %s : L'étiquette aller n'a pas été générée :"
+
+msgid "Order %s : Inward label generated"
+msgstr "Commande %s : Étiquette retour générée"
+
+msgid "Order %s : Inward label was not generated:"
+msgstr "Commande %s : L'étiquette retour n'a pas été générée :"
+
+msgid "cdi_warning_message"
+msgstr "Nous avons détecté que l'extension Colissimo Delivery Integration est installée sur votre site. Cette extension peut avoir des incompatibilités avec l'extension officielle Colissimo. Pour éviter les erreurs, vous pouvez désactiver l'extension Colissimo Delivery Integration"

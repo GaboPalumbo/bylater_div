@@ -1,0 +1,159 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21 oct. 2019, 17:43:24
+    Author     : gabriele.palumbo
+*/
+
+.home_image{
+    width: 100%;
+    /* max-width: 1000px; */
+    margin: auto;
+    position: relative;
+    height: calc(100vh - 80px);
+    overflow: hidden;
+}
+.home_image > img{
+    width: 100%;
+    position: relative;
+    height: auto;
+}
+
+.main_home {
+    margin-top: 44px;
+}
+.news_block {
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 4px;
+
+    overflow: hidden;
+    position: relative;
+}
+
+.new_image{
+    width: 100%;
+    position: relative;
+    /* overflow: hidden; */
+    height: 436px;
+}
+
+.new_image > img {
+    height: auto;
+    width: 100%;
+    position: absolute;
+}
+
+.new_title{
+    font-weight: bolder;
+    margin: auto;
+    margin-top:8px;
+    font-size: 14px;
+    /* margin: auto; */
+    width: 95%;
+}
+
+.new_extract {
+    margin: auto;
+    margin-top: 4px;
+    width: 95%;
+    line-height: 13px;
+    font-size: 12px;
+}
+
+
+.wrap_home {
+    max-width: 1000px;
+}
+
+
+.extra_link{
+    position: absolute;
+    top: 30px;
+    right: 20px;
+    color: white;
+    width: 410px;
+    font-size: 12px;
+}
+
+.extra_link > div > a{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.extra_link > div >a:hover{
+    color:#a3a3a3
+}
+
+.extra_page{
+    margin-top: 10px;
+}
+
+.extra-title{
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#text-2{
+    position: absolute;
+    top: 34px;
+    left: 340px;
+}
+
+#text-2 > .widget-title{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 10px;
+    color: white;
+    margin: unset;
+    padding: 0px;
+    line-height: unset;
+    letter-spacing: unset;
+}
+
+#text-2 > .textwidget > p > a{
+    font-size: 12px;
+    color: white;
+    margin-top: -2px;
+}
+
+#text-2 > .textwidget > p > a:hover{
+    color:#a3a3a3
+}
+#text-2 > .textwidget{
+    margin-top: -6px;
+}
+
+.mobile{
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .nomobile{
+        display: none;
+    }
+    
+    .mobile{
+    display: inherit;
+}
+
+
+    .home_image > img {
+        width: auto;
+        position: relative;
+        height: 100%;
+        max-width: unset;
+        /* position: absolute; */
+        /* left: 50%; */
+    }
+
+}

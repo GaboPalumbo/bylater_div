@@ -1,0 +1,20 @@
+2019-11-27T14:36:20+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-content/plugins/woocommerce/templates/loop/price.php:25
+Stack trace:
+#0 /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1283): wc_get_template('loop/price.php')
+#2 /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-includes/class-wp-hook.php(286): woocommerce_template_loop_price('')
+#3 /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-content/plugins/woocommerce/templates/content-product.php(57): do_action('woocommerce_aft...')
+#6 /home/clients/8be095d8 in /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-content/plugins/woocommerce/templates/loop/price.php on line 25
+
+2019-11-27T14:39:32+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-content/plugins/woocommerce/templates/loop/price.php:25
+Stack trace:
+#0 /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1283): wc_get_template('loop/price.php')
+#2 /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-includes/class-wp-hook.php(286): woocommerce_template_loop_price('')
+#3 /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-content/plugins/woocommerce/templates/content-product.php(57): do_action('woocommerce_aft...')
+#6 /home/clients/8be095d8 in /home/clients/8be095d875005b34300d670c22c9025d/dev/wp-content/plugins/woocommerce/templates/loop/price.php on line 25
+

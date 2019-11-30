@@ -1,0 +1,425 @@
+[
+  {
+    "id": "lpc_section_general",
+    "type": "title",
+    "title": "General configuration"
+  },
+  {
+    "id": "lpc_id_webservices",
+    "type": "text",
+    "title": "ID",
+    "desc": "ID of your account for La Poste webservices",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_pwd_webservices",
+    "type": "password",
+    "title": "Password",
+    "desc": "Password to connect to La Poste webservices and use the module",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_section_general",
+    "type": "sectionend"
+  },
+  {
+    "id": "lpc_section_labels",
+    "type": "title",
+    "title": "Labels"
+  },
+  {
+    "id": "lpc_company_name",
+    "type": "text",
+    "title": "Name of your store company",
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_preparation_time",
+    "type": "number",
+    "title": "Average preparation delay",
+    "desc": "Your average delay for preparation of a shipment, in days.",
+    "desc_tip": true,
+    "class": "",
+    "default": "1",
+    "custom_attributes": {
+      "min": "0"
+    }
+  },
+  {
+    "id": "lpc_using_insurance",
+    "type": "checkbox",
+    "title": "Use Colissimo Insurance?",
+    "desc": "If enabled, each label generation will use Colissimo Insurance feature by default.",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_deliveryLabelFormat",
+    "type": "select",
+    "title": "Delivery label format",
+    "class": "",
+    "default": "PDF_A4_300dpi",
+    "options": {
+      "PDF_A4_300dpi": "PDF office printing, dimension A4 and resolution of 300dpi",
+      "PDF_10x15_300dpi": "PDF office printing, dimension 10cm x 15cm, and resolution of 300dpi"
+    }
+  },
+  {
+    "id": "lpc_generate_label_on",
+    "type": "multiselectorderstatus",
+    "title": "",
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_order_status_on_label_generated",
+    "type": "selectorderstatusonlabelgenerated",
+    "title": "",
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_order_status_on_bordereau_generated",
+    "type": "selectorderstatusonbordereaugenerated",
+    "title": "",
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_email_outward_tracking",
+    "type": "checkbox",
+    "title": "Send tracking email",
+    "desc": "Send the tracking link in an email to customer on label generation",
+    "desc_tip": true,
+    "class": ""
+  },
+  {
+    "id": "lpc_day_purge",
+    "type": "number",
+    "title": "Number of days to consider labels for purging (days)",
+    "desc": "Delay before deleting labels BLOB from database. Use 0 or leave empty to disable this purge.",
+    "desc_tip": true,
+    "class": "",
+    "default": "",
+    "custom_attributes": {
+      "min": "0"
+    }
+  },
+  {
+    "id": "lpc_section_labels",
+    "type": "sectionend"
+  },
+  {
+    "id": "lpc_section_return_labels",
+    "type": "title",
+    "title": "Return labels"
+  },
+  {
+    "id": "lpc_returnLabelFormat",
+    "type": "select",
+    "title": "Return label format",
+    "class": "",
+    "default": "PDF_A4_300dpi",
+    "options": {
+      "PDF_A4_300dpi": "PDF office printing, dimension A4 and resolution of 300dpi",
+      "PDF_10x15_300dpi": "PDF office printing, dimension 10cm x 15cm, and resolution of 300dpi"
+    }
+  },
+  {
+    "id": "lpc_createReturnLabelWithOutward",
+    "type": "checkbox",
+    "title": "Automatically create return label at the same time as the outward label",
+    "desc": "If you don't activate this option, you can still manually create return labels on order shipping page",
+    "desc_tip": true,
+    "class": ""
+  },
+  {
+    "id": "lpc_email_return_label",
+    "type": "checkbox",
+    "title": "Automatically email the return label to the customer",
+    "desc": "If enabled, the return label will be automatically emailed to the customer when it is generated",
+    "desc_tip": true,
+    "class": ""
+  },
+  {
+    "id": "lpc_bal_return",
+    "type": "checkbox",
+    "title": "MailBox pick-up",
+    "desc": "Allow customers to automatically create return labels and use them to return the parcel from their MailBox",
+    "desc_tip": true,
+    "class": ""
+  },
+  {
+    "id": "lpc_section_return_labels",
+    "type": "sectionend"
+  },
+  {
+    "id": "lpc_domiciless",
+    "type": "title",
+    "title": "Colissimo without signature"
+  },
+  {
+    "id": "lpc_domiciless_IsAlwaysFree",
+    "type": "checkbox",
+    "title": "Always free?",
+    "desc": "If enabled, rates calculation for this shipping method will always be zero.",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_domiciless_FreeFromOrderValue",
+    "type": "number",
+    "title": "Free from order value",
+    "desc": "Shipping cost will be free if the order value is over the given one (only applied if this field is strictly positive).",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_domiciless",
+    "type": "sectionend"
+  },
+  {
+    "id": "lpc_domicileas",
+    "type": "title",
+    "title": "Colissimo with signature"
+  },
+  {
+    "id": "lpc_domicileas_IsAlwaysFree",
+    "type": "checkbox",
+    "title": "Always free?",
+    "desc": "If enabled, rates calculation for this shipping method will always be zero.",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_domicileas_FreeFromOrderValue",
+    "type": "number",
+    "title": "Free from order value",
+    "desc": "Shipping cost will be free if the order value is over the given one (only applied if this field is strictly positive).",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_domicileas",
+    "type": "sectionend"
+  },
+  {
+    "id": "lpc_expert",
+    "type": "title",
+    "title": "Colissimo Expert"
+  },
+  {
+    "id": "lpc_expert_IsAlwaysFree",
+    "type": "checkbox",
+    "title": "Always free?",
+    "desc": "If enabled, rates calculation for this shipping method will always be zero.",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_expert_FreeFromOrderValue",
+    "type": "number",
+    "title": "Free from order value",
+    "desc": "Shipping cost will be free if the order value is over the given one (only applied if this field is strictly positive).",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_expert",
+    "type": "sectionend"
+  },
+  {
+    "id": "lpc_relay",
+    "type": "title",
+    "title": "Colissimo relay"
+  },
+  {
+    "id": "lpc_relay_IsAlwaysFree",
+    "type": "checkbox",
+    "title": "Always free?",
+    "desc": "If enabled, rates calculation for this shipping method will always be zero.",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_relay_FreeFromOrderValue",
+    "type": "number",
+    "title": "Free from order value",
+    "desc": "Shipping cost will be free if the order value is over the given one (only applied if this field is strictly positive).",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_prUseWebService",
+    "type": "checkbox",
+    "title": "Use web service instead of widget?",
+    "desc": "If enabled, the web service will be used to choose a relay point, else the standard Colissimo widget will be used.",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_gmap_key",
+    "type": "text",
+    "title": "Google maps API key",
+    "desc": "Only needed for Webservice method. The API key can be generated on cloud.google.com/maps-platform",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_show_international",
+    "type": "checkbox",
+    "title": "Show internationals Relay Points",
+    "desc": "Only applicable for Webservice method",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_prCustomizeWidget",
+    "type": "checkbox",
+    "title": "Customize widget",
+    "desc": "If enabled, you can customize font and font color of the Colissimo widget",
+    "desc_tip": true,
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_prAddressTextColor",
+    "type": "color",
+    "title": "Address fields text color",
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_prListTextColor",
+    "type": "color",
+    "title": "Pickup point list text color",
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_prDisplayFont",
+    "type": "select",
+    "title": "Font",
+    "desc": "Font for texts inside the widget",
+    "desc_tip": true,
+    "class": "",
+    "default": "verdana",
+    "options": {
+      "georgia": "Georgia, serif",
+      "palatino": "\"Palatino Linotype\", \"Book Antiqua\", Palatino, serif",
+      "times": "\"Times New Roman\", Times, serif",
+      "arial": "Arial, Helvetica, sans-serif",
+      "arialblack": "\"Arial Black\", Gadget, sans-serif",
+      "comic": "\"Comic Sans MS\", cursive, sans-serif",
+      "impact": "Impact, Charcoal, sans-serif",
+      "lucida": "\"Lucida Sans Unicode\", \"Lucida Grande\", sans-serif",
+      "tahoma": "Tahoma, Geneva, sans-serif",
+      "trebuchet": "\"Trebuchet MS\", Helvetica, sans-serif",
+      "verdana": "Verdana, Geneva, sans-serif",
+      "courier": "\"Courier New\", Courier, monospace",
+      "lucidaconsole": "\"Lucida Console\", Monaco, monospace"
+    }
+  },
+  {
+    "id": "lpc_relay",
+    "type": "sectionend"
+  },
+  {
+    "id": "lpc_customs",
+    "type": "title",
+    "title": "Customs declaration"
+  },
+  {
+    "id": "lpc_customs_defaultHsCode",
+    "type": "text",
+    "title": "Default HS code",
+    "desc_tip": "Used when no HS code set on a product"
+  },
+  {
+    "id": "lpc_customs_defaultCustomsCategory",
+    "type": "select",
+    "title": "Default customs category",
+    "desc_tip": "Define the nature of the shipment",
+    "options": {
+      "1": "Gift",
+      "2": "Commercial sample",
+      "3": "Commercial shipment",
+      "4": "Document",
+      "5": "Other"
+    },
+    "default": "5"
+  },
+  {
+    "id": "lpc_customs_countryOfManufactureFieldName",
+    "type": "text",
+    "title": "Origin custom attribute name",
+    "desc_tip": "The name of the custom attribute you use to store the product country of manufacture / origin on products",
+    "default": "country_of_manufacture"
+  },
+  {
+    "id": "lpc_customs_hsCodeFieldName",
+    "type": "text",
+    "title": "HS code custom attribute name",
+    "desc_tip": "The name of the custom attribute you use to store the product HS code on products",
+    "default": "hs_code"
+  },
+  {
+    "id": "lpc_customs_isFtd",
+    "type": "checkbox",
+    "title": "Are parcels free of taxes and fees?",
+    "desc_tip": "For french overseas destinations only (except St-Pierre-et-Miquelon)",
+    "default": ""
+  },
+  {
+    "id": "lpc_customs",
+    "type": "sectionend"
+  },
+  {
+    "id": "lpc_section_dev",
+    "type": "title",
+    "title": "Debug and development"
+  },
+  {
+    "id": "lpc_log",
+    "type": "select",
+    "title": "Log messages",
+    "desc_tip": "The extension will save informative or debug messages in a file when needed",
+    "class": "",
+    "default": "0",
+    "options": {
+      "0": "None",
+      "1": "Error",
+      "2": "Warn",
+      "3": "Info",
+      "4": "Debug"
+    }
+  },
+  {
+    "id": "lpc_log",
+    "type": "seelog",
+    "title": "",
+    "class": "",
+    "default": ""
+  },
+  {
+    "id": "lpc_section_dev",
+    "type": "sectionend"
+  }
+]

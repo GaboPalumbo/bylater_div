@@ -1,0 +1,4461 @@
+
+<log>2019-10-30 16:24:03 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "298",
+    "trackingNumber": "6A15831593904"
+}
+<log>2019-10-30 16:24:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "299",
+    "trackingNumber": "6A15831593911"
+}
+<log>2019-10-30 16:24:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "300",
+    "trackingNumber": "6A15831593935"
+}
+<log>2019-10-30 16:24:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-10-30 16:24:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-10-30 16:24:04 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-10-30 16:24:04 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-10-30 16:51:36 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-10-30 16:51:42 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-10-31 08:38:35 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "298",
+    "trackingNumber": "6A15831593904"
+}
+<log>2019-10-31 08:38:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "299",
+    "trackingNumber": "6A15831593911"
+}
+<log>2019-10-31 08:38:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "300",
+    "trackingNumber": "6A15831593935"
+}
+<log>2019-10-31 08:38:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-10-31 08:38:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-10-31 08:38:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-10-31 09:24:28 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "298",
+    "trackingNumber": "6A15831593904"
+}
+<log>2019-10-31 09:24:29 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "299",
+    "trackingNumber": "6A15831593911"
+}
+<log>2019-10-31 09:24:29 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "300",
+    "trackingNumber": "6A15831593935"
+}
+<log>2019-10-31 09:24:30 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-10-31 09:24:30 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-10-31 09:24:30 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-10-31 10:39:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "298",
+    "trackingNumber": "6A15831593904"
+}
+<log>2019-10-31 10:39:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "299",
+    "trackingNumber": "6A15831593911"
+}
+<log>2019-10-31 10:39:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "300",
+    "trackingNumber": "6A15831593935"
+}
+<log>2019-10-31 10:39:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-10-31 10:39:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-10-31 10:39:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-04 09:17:32 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-04 09:17:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-04 09:17:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-04 09:17:39 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-04 09:17:39 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-04 09:25:03 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-04 09:25:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-04 09:25:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-04 10:09:24 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 10:09:57 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 10:24:17 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-04 10:24:17 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-04 10:24:17 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-04 10:24:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16920199373"
+}
+<log>2019-11-04 11:24:38 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-04 11:24:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-04 11:24:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-04 11:24:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16920199373"
+}
+<log>2019-11-04 13:09:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-04 13:09:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-04 13:09:32 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-04 13:09:32 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16920199373"
+}
+<log>2019-11-04 14:12:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-04 14:12:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-04 14:12:02 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-04 14:12:02 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16920199373"
+}
+<log>2019-11-04 14:25:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-04 14:25:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-04 14:25:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-04 14:25:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16920199373"
+}
+<log>2019-11-04 15:25:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-04 15:25:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-04 15:25:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-04 15:25:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16920199373"
+}
+<log>2019-11-04 15:53:36 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 15:55:45 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 15:57:53 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 16:06:52 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 16:07:00 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 16:07:24 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 16:07:45 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 16:07:51 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 16:08:25 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 16:08:34 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 16:08:51 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 16:08:54 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-04 16:15:17 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-04 16:25:36 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-04 16:25:36 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-04 16:25:36 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-04 16:25:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-04 16:25:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-04 16:25:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-04 16:25:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-04 16:25:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-04 16:25:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-04 16:25:38 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16937889373"
+}
+<log>2019-11-05 08:32:08 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 08:32:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 08:32:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 08:32:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 08:32:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 08:32:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 08:32:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 08:32:11 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16937889373"
+}
+<log>2019-11-05 08:43:20 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-05 08:49:14 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-05 08:50:40 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-05 08:50:44 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-05 08:50:51 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-05 08:50:53 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-05 08:50:54 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-05 08:50:58 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-05 08:51:09 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-05 08:51:24 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-05 08:51:25 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-05 08:54:38 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-05 10:30:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 10:30:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 10:30:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 10:30:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 10:30:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 10:30:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 10:30:02 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 10:30:02 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16937889373"
+}
+<log>2019-11-05 10:33:21 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-05 10:34:17 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-05 10:38:33 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-05 11:25:53 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 11:25:53 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 11:25:53 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 11:25:53 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 11:25:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 11:25:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 11:25:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 11:25:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16937978596"
+}
+<log>2019-11-05 12:24:44 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 12:24:44 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 12:24:44 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 12:24:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 12:24:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 12:24:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 12:24:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 12:24:46 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16937978596"
+}
+<log>2019-11-05 13:25:03 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 13:25:03 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 13:25:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 13:25:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 13:25:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 13:25:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 13:25:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 13:25:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16937978596"
+}
+<log>2019-11-05 13:37:13 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-05 13:41:07 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-05 13:56:10 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-05 14:20:13 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-05 14:24:19 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 14:24:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 14:24:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 14:24:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 14:24:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 14:24:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 14:24:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 14:24:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16917229939"
+}
+<log>2019-11-05 14:28:48 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-05 14:38:35 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-05 14:39:30 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-05 14:59:12 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-05 15:46:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 15:46:06 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 15:46:06 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 15:46:06 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 15:46:06 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 15:46:06 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 15:46:06 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 15:46:06 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-05 15:52:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 15:52:02 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 15:52:02 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 15:52:02 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 15:52:02 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 15:52:02 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 15:52:03 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 15:52:03 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-05 15:52:03 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-05 15:52:03 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-05 15:58:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 15:58:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 15:58:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 15:58:55 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 15:58:55 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 15:58:55 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 15:58:55 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 15:58:55 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-05 15:58:55 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-05 15:58:55 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-05 16:01:17 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 16:01:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 16:01:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 16:01:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 16:01:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 16:01:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 16:01:19 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 16:01:19 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-05 16:01:19 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-05 16:01:19 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-05 16:10:47 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 16:10:47 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 16:10:48 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 16:10:48 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 16:10:48 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 16:10:48 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 16:10:48 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 16:10:48 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-05 16:10:48 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-05 16:10:48 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-05 16:11:44 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 16:11:44 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 16:11:44 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 16:11:44 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 16:11:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 16:11:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 16:11:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 16:11:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-05 16:11:46 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-05 16:11:46 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-05 16:19:44 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-05 17:27:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-05 17:27:04 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-05 17:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-05 17:27:05 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-05 17:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-05 17:27:05 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-05 17:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-05 17:27:05 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-05 17:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-05 17:27:05 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-05 17:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-05 17:27:05 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-05 17:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-05 17:27:05 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-05 17:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-05 17:27:05 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-05 17:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16923644351"
+}
+<log>2019-11-05 17:27:05 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "314",
+    "trackingNumber": "6A16923644351",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-05 17:34:34 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-05 17:35:27 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-05 17:36:37 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-05 17:38:19 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-05 17:39:49 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-05 17:49:28 - ERROR : No label content
+<log>2019-11-06 08:40:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-06 08:40:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-06 08:40:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-06 08:40:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-06 08:40:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-06 08:40:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-06 08:40:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-06 08:40:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-06 08:40:02 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16936459584"
+}
+<log>2019-11-06 09:27:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-06 09:27:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-06 09:27:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-06 09:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-06 09:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-06 09:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-06 09:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-06 09:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-06 09:27:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16936459584"
+}
+<log>2019-11-06 10:25:52 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-06 10:25:53 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-06 10:25:53 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-06 10:25:53 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-06 10:25:53 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-06 10:25:53 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-06 10:25:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-06 10:25:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-06 10:25:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16936459584"
+}
+<log>2019-11-06 10:31:17 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 10:40:43 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 11:36:49 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-06 11:36:50 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-06 11:36:50 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-06 11:36:50 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-06 11:36:50 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-06 11:36:50 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-06 11:36:51 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-06 11:36:51 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-06 11:36:51 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-06 11:38:11 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 11:39:54 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 11:40:05 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 11:46:59 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 11:47:07 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 11:48:46 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 11:48:52 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 11:50:11 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 11:50:18 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 11:50:26 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 11:50:37 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 11:52:14 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 11:52:38 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 13:21:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-06 13:21:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-06 13:21:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-06 13:21:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-06 13:21:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-06 13:21:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-06 13:21:32 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-06 13:21:32 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-06 13:21:32 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-06 15:02:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-06 15:02:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-06 15:02:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-06 15:02:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-06 15:02:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-06 15:02:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-06 15:02:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-06 15:02:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-06 15:02:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-06 15:12:52 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-06 15:12:53 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-06 15:12:53 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-06 15:12:53 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-06 15:12:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-06 15:12:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-06 15:12:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-06 15:12:54 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-06 15:12:55 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-06 15:24:09 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 15:24:11 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 15:25:09 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 15:25:10 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/widget-point-retrait\/rest\/authenticate.rest"
+}
+<log>2019-11-06 15:25:38 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 15:25:50 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 15:26:35 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-06 15:26:48 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-06 15:35:30 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-06 15:36:01 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 15:37:23 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 15:54:40 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 16:00:22 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 16:00:22 - WARN : LpcRestApi::parseResponse
+{
+    "returnStatus": 400,
+    "jsonInfos": {
+        "messages": [
+            {
+                "id": "30020",
+                "type": "ERROR",
+                "messageContent": "Le montant total des frais de transport n'a pas \u00e9t\u00e9 transmis"
+            }
+        ],
+        "labelXmlReponse": null,
+        "labelResponse": null
+    }
+}
+<log>2019-11-06 16:00:22 - ERROR : Error during label generation."
+
+<log>2019-11-06 16:02:55 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 16:02:56 - WARN : LpcRestApi::parseResponse
+{
+    "returnStatus": 400,
+    "jsonInfos": {
+        "messages": [
+            {
+                "id": "30020",
+                "type": "ERROR",
+                "messageContent": "Le montant total des frais de transport n'a pas \u00e9t\u00e9 transmis"
+            }
+        ],
+        "labelXmlReponse": null,
+        "labelResponse": null
+    }
+}
+<log>2019-11-06 16:03:11 - ERROR : Error during label generation."
+
+<log>2019-11-06 16:05:31 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 16:05:32 - WARN : LpcRestApi::parseResponse
+{
+    "returnStatus": 400,
+    "jsonInfos": {
+        "messages": [
+            {
+                "id": "30020",
+                "type": "ERROR",
+                "messageContent": "Le montant total des frais de transport n'a pas \u00e9t\u00e9 transmis"
+            }
+        ],
+        "labelXmlReponse": null,
+        "labelResponse": null
+    }
+}
+<log>2019-11-06 16:05:32 - ERROR : Error during label generation."
+
+<log>2019-11-06 16:11:49 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-06 16:11:49 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-06 16:11:49 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "302",
+    "trackingNumber": "6A16933966849"
+}
+<log>2019-11-06 16:11:50 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-06 16:11:50 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 16:11:50 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-06 16:11:50 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-06 16:11:50 - WARN : LpcRestApi::parseResponse
+{
+    "returnStatus": 400,
+    "jsonInfos": {
+        "messages": [
+            {
+                "id": "30020",
+                "type": "ERROR",
+                "messageContent": "Le montant total des frais de transport n'a pas \u00e9t\u00e9 transmis"
+            }
+        ],
+        "labelXmlReponse": null,
+        "labelResponse": null
+    }
+}
+<log>2019-11-06 16:11:51 - ERROR : Error during label generation."
+
+<log>2019-11-06 16:11:51 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-06 16:11:51 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-06 16:11:51 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-06 16:11:51 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-06 16:11:51 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-06 16:11:52 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-06 16:12:38 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 16:12:38 - WARN : LpcRestApi::parseResponse
+{
+    "returnStatus": 400,
+    "jsonInfos": {
+        "messages": [
+            {
+                "id": "30020",
+                "type": "ERROR",
+                "messageContent": "Le montant total des frais de transport n'a pas \u00e9t\u00e9 transmis"
+            }
+        ],
+        "labelXmlReponse": null,
+        "labelResponse": null
+    }
+}
+<log>2019-11-06 16:12:38 - ERROR : Error during label generation."
+
+<log>2019-11-06 16:23:31 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 16:23:52 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-06 16:46:23 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-08 09:01:32 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-08 09:01:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-08 09:01:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-08 09:01:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-08 09:01:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-08 09:01:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-08 09:01:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-08 09:01:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-08 09:01:34 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-08 09:01:34 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-08 09:01:40 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-08 09:01:40 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-08 09:13:36 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-08 09:13:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-08 09:13:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-08 09:13:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-08 09:13:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-08 09:13:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-08 09:13:38 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-08 09:13:38 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-08 09:13:38 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-08 09:13:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-08 10:12:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-08 10:12:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-08 10:12:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-08 10:12:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-08 10:12:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-08 10:12:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-08 10:12:06 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-08 10:12:06 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-08 10:12:06 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-08 10:12:06 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-08 11:13:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-08 11:13:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-08 11:13:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-08 11:13:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-08 11:13:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-08 11:13:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-08 11:13:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-08 11:13:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-08 11:13:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-08 11:13:11 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-08 12:32:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-08 12:32:43 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-08 12:32:43 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-08 12:32:44 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-08 12:32:44 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-08 12:32:44 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-08 12:32:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-08 12:32:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-08 12:32:46 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-08 12:32:46 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-08 13:13:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-08 13:13:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-08 13:13:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-08 13:13:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-08 13:13:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-08 13:13:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-08 13:13:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-08 13:13:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-08 13:13:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-08 13:13:43 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-08 14:12:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-08 14:12:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-08 14:12:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-08 14:12:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-08 14:12:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-08 14:12:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-08 14:12:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-08 14:12:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-08 14:12:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-08 14:12:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-08 14:46:12 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-08 14:46:29 - ERROR : Unable to find "startxref" keyword.
+<log>2019-11-08 15:12:14 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-08 15:12:14 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-08 15:12:14 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-08 15:12:14 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-08 15:12:15 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-08 15:12:15 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-08 15:12:15 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-08 15:12:15 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-08 15:12:15 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-08 15:12:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-12 13:55:19 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-12 13:55:19 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-12 13:55:19 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-12 13:55:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-12 13:55:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-12 13:55:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-12 13:55:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-12 13:55:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-12 13:55:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-12 13:55:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-12 13:55:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-12 13:55:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-12 14:12:32 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-12 14:12:32 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-12 14:12:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-12 14:12:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-12 14:12:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-12 14:12:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-12 14:12:34 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-12 14:12:34 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-12 14:12:34 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-12 14:12:34 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-12 15:12:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-12 15:12:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-12 15:12:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-12 15:12:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-12 15:12:19 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-12 15:12:19 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-12 15:12:19 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-12 15:12:19 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-12 15:12:19 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-12 15:12:19 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-12 16:13:03 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-12 16:13:03 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-12 16:13:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-12 16:13:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-12 16:13:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-12 16:13:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-12 16:13:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-12 16:13:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-12 16:13:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-12 16:13:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-12 16:13:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-12 16:13:05 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-12 17:27:55 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-12 17:27:55 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-12 17:27:55 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-12 17:27:55 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-12 17:27:55 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-12 17:27:55 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-12 17:27:55 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-12 17:27:55 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-12 17:27:55 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-12 17:27:55 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-12 17:27:56 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-12 17:27:56 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-12 17:27:56 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-12 17:27:56 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-12 17:27:56 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-12 17:27:56 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-12 17:27:56 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-12 17:27:56 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-12 17:27:56 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-12 17:27:56 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-12 17:51:09 - ERROR : Appel ajax inconnu : getPrintThermalUrl
+<log>2019-11-12 18:12:58 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-12 18:13:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-12 18:13:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-12 18:13:01 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-12 18:13:02 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-12 18:13:02 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-12 18:13:03 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-12 18:13:03 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-12 18:13:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-12 18:13:04 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-13 07:12:33 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-13 07:12:35 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-13 07:12:35 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-13 07:12:36 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-13 07:12:36 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-13 07:12:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-13 07:12:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-13 07:12:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-13 07:12:37 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-13 07:12:38 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-13 08:13:08 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-13 08:13:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-13 08:13:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-13 08:13:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-13 08:13:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-13 08:13:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-13 08:13:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-13 08:13:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-13 08:13:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-13 08:13:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-13 09:12:44 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-13 09:12:44 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-13 09:12:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-13 09:12:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-13 09:12:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-13 09:12:45 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-13 09:12:46 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-13 09:12:46 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-13 09:12:46 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-13 09:12:46 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-13 09:41:23 - ERROR : Appel ajax inconnu : label/outward/print_thermal
+<log>2019-11-13 10:13:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-13 10:13:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-13 10:13:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-13 10:13:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-13 10:13:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-13 10:13:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-13 10:13:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-13 10:13:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-13 10:13:24 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-13 10:13:24 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-13 11:12:25 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-13 11:12:25 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-13 11:12:26 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-13 11:12:26 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-13 11:12:26 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-13 11:12:27 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-13 11:12:27 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-13 11:12:27 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-13 11:12:27 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-13 11:12:27 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-13 13:05:38 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-13 13:05:38 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-13 13:05:38 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-13 13:05:38 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-13 13:05:38 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-13 13:05:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-13 13:05:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-13 13:05:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-13 13:05:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-13 13:05:39 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-13 13:11:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-13 13:11:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-13 13:11:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-13 13:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-13 13:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-13 13:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-13 13:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-13 13:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-13 13:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-13 13:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-13 14:12:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-13 14:12:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-13 14:12:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-13 14:12:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-13 14:12:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-13 14:12:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-13 14:12:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-13 14:12:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-13 14:12:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-13 14:12:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-13 15:13:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-13 15:13:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-13 15:13:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-13 15:13:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-13 15:13:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-13 15:13:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-13 15:13:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-13 15:13:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-13 15:13:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-13 15:13:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-13 16:03:57 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 16:03:58 - WARN : LpcRestApi::parseResponse
+{
+    "returnStatus": 400,
+    "jsonInfos": {
+        "messages": [
+            {
+                "id": "30026",
+                "type": "ERROR",
+                "messageContent": "Le type d'impression est incorrect"
+            }
+        ],
+        "labelXmlReponse": null,
+        "labelResponse": null
+    }
+}
+<log>2019-11-13 16:03:58 - ERROR : Error during label generation."
+
+<log>2019-11-13 16:04:34 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 16:04:34 - WARN : LpcRestApi::parseResponse
+{
+    "returnStatus": 400,
+    "jsonInfos": {
+        "messages": [
+            {
+                "id": "30026",
+                "type": "ERROR",
+                "messageContent": "Le type d'impression est incorrect"
+            }
+        ],
+        "labelXmlReponse": null,
+        "labelResponse": null
+    }
+}
+<log>2019-11-13 16:04:34 - ERROR : Error during label generation."
+
+<log>2019-11-13 16:05:07 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 16:05:32 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 16:05:33 - WARN : LpcRestApi::parseResponse
+{
+    "returnStatus": 400,
+    "jsonInfos": {
+        "messages": [
+            {
+                "id": "30026",
+                "type": "ERROR",
+                "messageContent": "Le type d'impression est incorrect"
+            }
+        ],
+        "labelXmlReponse": null,
+        "labelResponse": null
+    }
+}
+<log>2019-11-13 16:05:33 - ERROR : Error during label generation."
+
+<log>2019-11-13 16:12:27 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-13 16:12:27 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-13 16:12:27 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-13 16:12:28 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-13 16:12:28 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-13 16:12:28 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-13 16:12:28 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-13 16:12:28 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-13 16:12:29 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-13 16:12:29 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-13 16:12:29 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-13 16:12:29 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-13 16:14:48 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 16:14:48 - WARN : LpcRestApi::parseResponse
+{
+    "returnStatus": 400,
+    "jsonInfos": {
+        "messages": [
+            {
+                "id": "30026",
+                "type": "ERROR",
+                "messageContent": "Le type d'impression est incorrect"
+            }
+        ],
+        "labelXmlReponse": null,
+        "labelResponse": null
+    }
+}
+<log>2019-11-13 16:14:48 - ERROR : Error during label generation."
+
+<log>2019-11-13 16:18:55 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 16:18:55 - WARN : LpcRestApi::parseResponse
+{
+    "returnStatus": 400,
+    "jsonInfos": {
+        "messages": [
+            {
+                "id": "30026",
+                "type": "ERROR",
+                "messageContent": "Le type d'impression est incorrect"
+            }
+        ],
+        "labelXmlReponse": null,
+        "labelResponse": null
+    }
+}
+<log>2019-11-13 16:18:55 - ERROR : Error during label generation."
+
+<log>2019-11-13 16:25:11 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 16:25:11 - WARN : LpcRestApi::parseResponse
+{
+    "returnStatus": 400,
+    "jsonInfos": {
+        "messages": [
+            {
+                "id": "30026",
+                "type": "ERROR",
+                "messageContent": "Le type d'impression est incorrect"
+            }
+        ],
+        "labelXmlReponse": null,
+        "labelResponse": null
+    }
+}
+<log>2019-11-13 16:25:11 - ERROR : Error during label generation."
+
+<log>2019-11-13 16:34:06 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 16:34:22 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 16:37:43 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 16:38:07 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 16:42:04 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 16:42:24 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 17:59:19 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "305",
+    "trackingNumber": "6A16918133549"
+}
+<log>2019-11-13 17:59:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-13 17:59:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-13 17:59:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-13 17:59:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-13 17:59:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-13 17:59:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-13 17:59:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-13 17:59:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-13 17:59:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-13 17:59:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16953026394"
+}
+<log>2019-11-13 18:00:13 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-13 18:00:26 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-14 07:07:47 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 07:07:48 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 07:07:49 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 07:07:49 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 07:07:49 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 07:07:50 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 07:07:50 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 07:07:50 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 07:07:51 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 07:07:51 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16957851596"
+}
+<log>2019-11-14 07:12:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 07:12:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 07:12:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 07:12:24 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 07:12:24 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 07:12:24 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 07:12:24 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 07:12:24 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 07:12:24 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 07:12:25 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16957851596"
+}
+<log>2019-11-14 08:35:07 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 08:35:07 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 08:35:07 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 08:35:08 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 08:35:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 08:35:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 08:35:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 08:35:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 08:35:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 08:35:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16957851596"
+}
+<log>2019-11-14 08:35:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 08:35:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 08:35:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 08:35:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 08:35:18 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 08:35:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 08:35:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 08:35:21 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 08:35:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 08:35:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16957851596"
+}
+<log>2019-11-14 09:12:12 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 09:12:12 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 09:12:12 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 09:12:12 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 09:12:13 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 09:12:13 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 09:12:13 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 09:12:13 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 09:12:13 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 09:12:14 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16957851596"
+}
+<log>2019-11-14 10:09:54 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-14 10:12:07 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 10:12:12 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 10:12:22 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223",
+    "errorMessage": "Error Fetching http headers"
+}
+<log>2019-11-14 10:12:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 10:12:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 10:12:22 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 10:12:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 10:12:23 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 10:12:24 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 10:12:26 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 10:12:26 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16958680881"
+}
+<log>2019-11-14 11:19:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 11:19:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 11:19:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 11:19:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 11:19:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 11:19:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 11:19:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 11:19:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 11:19:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 11:19:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16958680881"
+}
+<log>2019-11-14 13:36:40 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 13:36:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 13:36:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 13:36:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 13:36:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 13:36:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 13:36:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 13:36:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 13:36:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 13:36:41 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16958680881"
+}
+<log>2019-11-14 14:12:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 14:12:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 14:12:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 14:12:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 14:12:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 14:12:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 14:12:43 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 14:12:43 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 14:12:43 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 14:12:43 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16958680881"
+}
+<log>2019-11-14 15:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 15:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 15:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 15:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 15:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 15:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 15:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 15:11:42 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 15:11:43 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 15:11:43 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16958680881"
+}
+<log>2019-11-14 16:12:08 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "106"
+}
+<log>2019-11-14 16:12:08 - DEBUG : LpcLabelPurge::purgeReadyLabels purge labels for
+{
+    "orderId": "108"
+}
+<log>2019-11-14 16:12:08 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 16:12:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 16:12:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 16:12:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 16:12:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 16:12:11 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 16:12:11 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 16:12:12 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 16:12:14 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 16:12:15 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16958680881"
+}
+<log>2019-11-14 16:24:36 - ERROR : LpcThermalLabelPrintAction::getUrlsForThermalPrint label type is incorrect
+{
+    "order_id": 320,
+    "label_type": ""
+}
+<log>2019-11-14 16:51:32 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-14 16:51:34 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-14 16:51:35 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-14 16:51:53 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-14 16:51:54 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-14 16:51:54 - DEBUG : LpcRestApi::query
+{
+    "url": "https:\/\/ws.colissimo.fr\/sls-ws\/SlsServiceWSRest\/generateLabel"
+}
+<log>2019-11-14 16:54:19 - ERROR : No label content
+<log>2019-11-14 17:38:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 17:38:16 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 17:38:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 17:38:16 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 17:38:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 17:38:16 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 17:38:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 17:38:16 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 17:38:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 17:38:16 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 17:38:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 17:38:16 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 17:38:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 17:38:16 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 17:38:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 17:38:16 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 17:38:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 17:38:16 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 17:38:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16959550107"
+}
+<log>2019-11-14 17:38:16 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "320",
+    "trackingNumber": "6A16959550107",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 17:38:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "321",
+    "trackingNumber": "6A16953933531"
+}
+<log>2019-11-14 17:38:16 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "321",
+    "trackingNumber": "6A16953933531",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 17:38:16 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "322",
+    "trackingNumber": "6A16959550091"
+}
+<log>2019-11-14 17:38:16 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "322",
+    "trackingNumber": "6A16959550091",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 18:14:15 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852"
+}
+<log>2019-11-14 18:14:30 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "307",
+    "trackingNumber": "6A16934251852",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 18:14:30 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-14 18:14:30 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 18:14:30 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-14 18:14:30 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 18:14:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-14 18:14:31 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 18:14:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-14 18:14:31 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 18:14:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-14 18:14:31 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 18:14:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-14 18:14:31 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 18:14:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-14 18:14:31 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 18:14:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-14 18:14:31 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 18:14:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16959550107"
+}
+<log>2019-11-14 18:14:31 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "320",
+    "trackingNumber": "6A16959550107",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 18:14:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "321",
+    "trackingNumber": "6A16953933531"
+}
+<log>2019-11-14 18:14:31 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "321",
+    "trackingNumber": "6A16953933531",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-14 18:14:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "322",
+    "trackingNumber": "6A16959550091"
+}
+<log>2019-11-14 18:14:31 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "322",
+    "trackingNumber": "6A16959550091",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-15 07:26:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-15 07:26:20 - ERROR : LpcUnifiedTrackingApi::updateAllStatuses can't update status
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223",
+    "errorMessage": "Could not connect to host"
+}
+<log>2019-11-15 07:26:20 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-15 07:26:28 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-15 07:26:28 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-15 07:26:29 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-15 07:26:29 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-15 07:26:30 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-15 07:26:30 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-15 07:26:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16959550107"
+}
+<log>2019-11-15 07:26:32 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "321",
+    "trackingNumber": "6A16953933531"
+}
+<log>2019-11-15 07:26:36 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "322",
+    "trackingNumber": "6A16959550091"
+}
+<log>2019-11-15 09:03:11 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-15 09:03:12 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-15 09:03:12 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-15 09:03:12 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-15 09:03:13 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-15 09:03:13 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-15 09:03:13 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-15 09:03:14 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-15 09:03:14 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16959550107"
+}
+<log>2019-11-15 09:03:14 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "321",
+    "trackingNumber": "6A16953933531"
+}
+<log>2019-11-15 09:03:14 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "322",
+    "trackingNumber": "6A16959550091"
+}
+<log>2019-11-15 09:04:59 - ERROR : No label content
+<log>2019-11-15 09:12:30 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-15 09:12:30 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-15 09:12:30 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-15 09:12:30 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-15 09:12:30 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-15 09:12:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-15 09:12:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-15 09:12:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-15 09:12:31 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16959550107"
+}
+<log>2019-11-15 09:12:32 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "321",
+    "trackingNumber": "6A16953933531"
+}
+<log>2019-11-15 09:12:32 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "322",
+    "trackingNumber": "6A16959550091"
+}
+<log>2019-11-15 09:45:02 - ERROR : LpcThermalLabelPrintAction::getUrlsForThermalPrint no outward label for order
+{
+    "order_id": 317
+}
+<log>2019-11-15 09:47:57 - ERROR : No label content
+<log>2019-11-15 09:58:01 - ERROR : LpcThermalLabelPrintAction::getUrlsForThermalPrint no outward label for order
+{
+    "order_id": 317
+}
+<log>2019-11-15 10:04:28 - ERROR : LpcThermalLabelPrintAction::getUrlsForThermalPrint no outward label for order
+{
+    "order_id": 317
+}
+<log>2019-11-15 10:04:28 - ERROR : Cannot open /tmp/outward_label.pdf !
+<log>2019-11-15 10:08:33 - ERROR : Cannot open  !
+<log>2019-11-15 10:09:54 - ERROR : Cannot open /tmp/outward_label.pdf !
+<log>2019-11-15 10:12:08 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-15 10:12:08 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-15 10:12:08 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-15 10:12:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-15 10:12:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-15 10:12:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-15 10:12:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-15 10:12:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-15 10:12:09 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16959550107"
+}
+<log>2019-11-15 10:12:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "321",
+    "trackingNumber": "6A16953933531"
+}
+<log>2019-11-15 10:12:10 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "322",
+    "trackingNumber": "6A16959550091"
+}
+<log>2019-11-15 11:00:12 - ERROR : No label content
+<log>2019-11-15 11:02:15 - ERROR : LpcThermalLabelPrintAction::getUrlsForThermalPrint label type is incorrect
+{
+    "order_id": 322,
+    "label_type": "both"
+}
+<log>2019-11-15 11:08:14 - ERROR : LpcThermalLabelPrintAction::getUrlsForThermalPrint no outward label for order
+{
+    "order_id": 322
+}
+<log>2019-11-15 11:11:25 - ERROR : LpcThermalLabelPrintAction::getUrlsForThermalPrint no outward label for order
+{
+    "order_id": 322
+}
+<log>2019-11-15 11:11:58 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-15 11:11:59 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-15 11:11:59 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-15 11:11:59 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-15 11:11:59 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-15 11:11:59 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-15 11:12:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-15 11:12:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-15 11:12:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16959550107"
+}
+<log>2019-11-15 11:12:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "321",
+    "trackingNumber": "6A16953933531"
+}
+<log>2019-11-15 11:12:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "322",
+    "trackingNumber": "6A16959550091"
+}
+<log>2019-11-15 11:38:41 - ERROR : LpcThermalLabelPrintAction::getUrlsForThermalPrint no outward label for order
+{
+    "order_id": 317
+}
+<log>2019-11-15 11:38:41 - ERROR : LpcThermalLabelPrintAction::getUrlsForThermalPrint no outward label for order
+{
+    "order_id": 317
+}
+<log>2019-11-15 11:38:41 - ERROR : LpcThermalLabelPrintAction::getUrlsForThermalPrint no outward label for order
+{
+    "order_id": 316
+}
+<log>2019-11-15 11:38:41 - ERROR : LpcThermalLabelPrintAction::getUrlsForThermalPrint no outward label for order
+{
+    "order_id": 316
+}
+<log>2019-11-15 11:38:41 - ERROR : LpcThermalLabelPrintAction::getUrlsForThermalPrint no outward label for order
+{
+    "order_id": 314
+}
+<log>2019-11-15 15:37:59 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "309",
+    "trackingNumber": "6A16936297223"
+}
+<log>2019-11-15 15:37:59 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "310",
+    "trackingNumber": "6A16917097828"
+}
+<log>2019-11-15 15:37:59 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "311",
+    "trackingNumber": "6A16941096613"
+}
+<log>2019-11-15 15:37:59 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "312",
+    "trackingNumber": "6A16916288265"
+}
+<log>2019-11-15 15:37:59 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "313",
+    "trackingNumber": "6A16941230239"
+}
+<log>2019-11-15 15:38:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "314",
+    "trackingNumber": "6A16916532252"
+}
+<log>2019-11-15 15:38:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "315",
+    "trackingNumber": "6A16923781261"
+}
+<log>2019-11-15 15:38:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "318",
+    "trackingNumber": "CB494185179FR"
+}
+<log>2019-11-15 15:38:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "320",
+    "trackingNumber": "6A16959550107"
+}
+<log>2019-11-15 15:38:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "321",
+    "trackingNumber": "6A16953933531"
+}
+<log>2019-11-15 15:38:00 - DEBUG : LpcUnifiedTrackingApi::updateAllStatuses updating status for
+{
+    "orderId": "322",
+    "trackingNumber": "6A16959550091"
+}

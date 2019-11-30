@@ -1,0 +1,46 @@
+.shippingrows thead tr {
+	background-color: #E5E5E5;
+}
+
+.shippingrows .table_rates td.check-column {
+	vertical-align: middle;
+	padding: inherit;
+}
+
+.shippingrows .table_rates td.check-column input[type="checkbox"] {
+	margin-left: 11px;
+}
+
+.lpc_unit_actions {
+	width: 100px;
+}
+
+.woocommerce_page_wc_colissimo_view th#id, .woocommerce_page_wc_colissimo_view td.id {
+	max-width: 50px;
+	width: 50px;
+}
+
+.woocommerce_page_wc_colissimo_view th#country, .woocommerce_page_wc_colissimo_view td.country {
+	max-width: 75px;
+	width: 75px;
+}
+
+.woocommerce_page_wc_colissimo_view th#date, .woocommerce_page_wc_colissimo_view td.id {
+	max-width: 100px;
+	width: 100px;
+}
+
+.lpcspinner {
+	background: url('/wp-admin/images/wpspin_light-2x.gif') no-repeat;
+	background-size: 16px 16px;
+	display: none;
+	opacity: .7;
+	filter: alpha(opacity=70);
+	width: 16px;
+	height: 16px;
+	margin: 5px 5px 0;
+}
+
+.lpc_shipping_rates_title_hide {
+	display: none;
+}

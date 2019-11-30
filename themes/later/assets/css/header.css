@@ -1,0 +1,257 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 19, 2019, 7:25:12 PM
+    Author     : gabriele.palumbo
+*/
+
+
+
+.wrap {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+    max-width:1000px;
+    margin: auto;
+    position: relative;
+}
+
+.navigation-top a {
+    font-weight: bold;
+    font-weight: 700;
+}
+
+
+.menu {
+    position: absolute;
+    right: 0px;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.languages_cont{
+    position: absolute;
+    right: 0px;
+    font-size: 10px;
+    top: 60%;
+    font-weight: bold;
+    transform: translateY(-50%);
+}
+.menu-menu-container, .menu-menu_fr-container {
+    right: 60px;
+    position: absolute;
+    width: 377px;
+    height: 14px;
+    top: 60%;
+    transform: translateY(-50%);
+}
+
+.current-lang{
+    background-color: black;
+}
+.current-lang > a{
+    color: white;
+}
+.lang-item > a{
+    text-transform: capitalize;
+    width: 16px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    font-weight: normal;
+}
+
+
+.site-header {
+    height:80px;
+    background-color: #ffffff;
+    border-bottom: 1px solid black;
+}
+.navigation-top {
+}
+
+
+
+.navigation-top nav {
+    margin-left: 0;
+    height: 80px;
+    position: relative;
+}
+
+.logo{
+    position: absolute;
+    left: 50%;
+    width: 150px;
+    top: 50%;
+    z-index: 100;
+    transform: translate(-50%, -50%);
+}
+
+
+.main-navigation .lang-item{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: 11px;
+}
+
+.menu-item > a > svg {
+    display: none !important;
+}
+
+.main-navigation .sub-menu{
+    background-color: transparent;
+    padding-top: 10px;
+    border: 0px;    
+}
+
+
+@media screen and (min-width: 48em){
+
+    .navigation-top .wrap {
+        padding: 0px;
+    }
+
+    .main-navigation li {
+        border: 0px;
+        display: inline-block;
+        margin-left: 3px;
+        margin-right: 3px;
+
+    }
+
+    .sub-menu li {
+        background-color: #a3a3a3;
+    }
+
+
+    .main-navigation a {
+        padding: 0px;
+        font-size: 11px;
+    }
+
+    .main-navigation li li:hover, .main-navigation li li.focus {
+        background: #a3a3a3;
+    }
+
+    .main-navigation ul ul {
+        background: #fff;
+        border: 1px solid #bbb;
+        left: -999em;
+        padding: 0;
+        position: absolute;
+        top: 100%;
+        z-index: 99999;
+    }
+
+    .main-navigation ul li:hover > ul, .main-navigation ul li.focus > ul {
+        left: 50%;
+        right: auto;
+        transform: translateX(-50%);
+    }
+
+    .main-navigation ul li.menu-item-has-children:before, .main-navigation ul li.page_item_has_children:before {
+
+        width: 0;
+        height: 0;
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        border-bottom: 8px solid #a3a3a3;
+        top:20px;
+        left:50%;
+        transform: translateX(-50%);
+
+    }
+
+}
+
+
+
+.menu-toggle {
+    position:absolute;
+    left:0px;
+
+}
+
+.menu-toggle:focus {
+    outline:unset;
+}
+
+.menu-toggle{
+    font-size: 0px;
+}
+
+.menu-toggle > svg{
+    font-size: 33px;
+}
+
+
+.menu-toggle .icon {
+    top: 16px;
+    left: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+    .menu-menu-container,.menu-menu_fr-container{
+        right: unset;
+        height: fit-content;
+        transform: unset;
+        left: 0px;
+        width: 172px;
+        background-color: white;
+        display: block;
+        top: 80px;
+        padding: 0px;
+    }
+
+    .js .main-navigation.toggled-on > div > ul {
+        background-color:#ffffffe6;
+        height: fit-content;
+        padding: 5px;
+        width: 100%;
+            font-size: 14px;
+
+    }
+
+    .navigation-top {
+        z-index: 1000;
+    }
+
+    .main-navigation.toggled-on li li {
+        text-align: left;
+        line-height: 14px;
+    }
+
+
+    .main-navigation ul ul.toggled-on {
+        display: block;
+        padding-left: 3px;
+    }
+
+    .dropdown-toggle{
+        background-color: transparent;
+        border: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        color: #222;
+        display: block;
+        font-size:24px;
+        right: 2px;
+        line-height: 1.5;
+        margin: 0px;
+        padding: 0px;
+        position: absolute;
+        text-shadow: none;
+        top: 0;
+    }
+
+    .dropdown-toggle:focus {
+        outline:unset;
+    }
+}
